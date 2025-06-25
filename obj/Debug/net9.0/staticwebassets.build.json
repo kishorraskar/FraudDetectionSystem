@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "i5wigrx+aREIN1ZljsNu2KERaRWYh2fwTfIdoGpKJOo=",
+  "Source": "FraudDetectionSystem",
+  "BasePath": "_content/FraudDetectionSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
