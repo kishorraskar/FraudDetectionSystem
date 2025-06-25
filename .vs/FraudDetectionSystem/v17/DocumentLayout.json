@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|c:\\kishor\\learning\\kata\\frauddetectionsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|c:\\kishor\\learning\\kata\\frauddetectionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|c:\\kishor\\learning\\kata\\frauddetectionsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|c:\\kishor\\learning\\kata\\frauddetectionsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|c:\\kishor\\learning\\kata\\frauddetectionsystem\\models\\claimmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|solutionrelative:models\\claimmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20CA6FF5-312F-C115-D28E-1B5494A69F69}|FraudDetectionSystem.csproj|c:\\kishor\\learning\\kata\\frauddetectionsystem\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +43,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T07:00:32.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:58:49.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:56:40.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimModel.cs",
+              "DocumentMoniker": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Models\\ClaimModel.cs",
+              "RelativeDocumentMoniker": "Models\\ClaimModel.cs",
+              "ToolTip": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Models\\ClaimModel.cs",
+              "RelativeToolTip": "Models\\ClaimModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:56:09.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T06:37:41.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ClaimsController.cs",
               "DocumentMoniker": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Controllers\\ClaimsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
@@ -47,12 +115,11 @@
               "RelativeToolTip": "Controllers\\ClaimsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:36:37.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T06:36:37.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Kishor\\Learning\\Kata\\FraudDetectionSystem\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -60,8 +127,7 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:36:16.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T06:36:16.011Z"
             }
           ]
         }
